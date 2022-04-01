@@ -2,7 +2,6 @@
 
 - 🌱 Estou estudando Java, Spring, C# e .NET
 - 📫 Contate-me: rafaelainocencioo@gmail.com
-- 😄 Pronouns: ... ela/dela
 
 <div align="center">
   <a href="https://github.com/rafaelainocencio">
