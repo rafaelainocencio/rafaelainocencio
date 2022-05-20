@@ -1,7 +1,7 @@
 
 ### Olá! Sou a Rafaela Montalvão👋
 
-- 🌱 Estou estudando Java, Spring, C# e .NET
+- 🌱 Estou estudando Java, Spring, C# e ASP.NET.
 - 📫 Contate-me: rafaelainocencioo@gmail.com
 
 <div align="center">
