@@ -1,7 +1,7 @@
 
 ### Olá! Sou a Rafaela Montalvão👋
 
-- 🌱 C#, .Net e ASP.Net.
+- 🌱 C#, .Net.
 - 📫 Contate-me: rafaelainocencioo@gmail.com
 
 <div align="center">
